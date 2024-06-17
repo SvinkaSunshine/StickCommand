@@ -1,0 +1,10 @@
+messages:
+  no_permission: "You don't have permission to use this command."
+  reload_success: "Configuration reloaded successfully."
+  player_only: "This command can only be used by a player."
+  stick_given: "You have been given the stick: {stickName}"
+  no_such_stick: "No such stick found."
+  command_executed: "Executed command on {player}: {command}"
+  invalid_command: "The command is invalid or could not be executed."
+  error_executing_command: "An error occurred while executing the command."
+  no_command_for_stick: "No command found for this stick."

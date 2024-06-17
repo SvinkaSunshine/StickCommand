@@ -1,0 +1,18 @@
+name: StickCommand
+version: 0.2
+author: Svinka_Sunshine
+main: ru.svinka.stickcommand.StickCommand
+api-version: 1.20
+commands:
+  sc:
+    description: Main command for StickCommand plugin
+    usage: /sc <reload|give> [stickName]
+    permission: stickcommand.give
+    permission-message: You don't have permission to use this command.
+permissions:
+  stickcommand.give:
+    default: op
+  stickcommand.reload:
+    default: op
+  stickcommand.use:
+    default: op

@@ -1,0 +1,23 @@
+# Stick Command config
+
+# languages: en.yml, ru.yml
+language: en.yml
+
+# {player} - target player
+# {x} {y} {z} - Coordinates of the target player before the impact. Useful for the /tp command.
+
+StickCommand:
+  StickExample:
+    name: '&6Example'
+    command: 'kick {player}'
+    enchanting: true
+    lore:
+      - '&7This stick will kick'
+      - '&7the player you hit with it.'
+  StickExample2:
+    name: '&6Example2'
+    command: 'ban {player}'
+    enchanting: false
+    lore:
+      - '&7This stick will ban'
+      - '&7the player you hit with it.'

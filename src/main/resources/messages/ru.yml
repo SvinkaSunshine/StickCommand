@@ -1,0 +1,10 @@
+messages:
+  no_permission: "У вас нет прав для использования этой команды."
+  reload_success: "Конфигурация успешно перезагружена."
+  player_only: "Эту команду может использовать только игрок."
+  stick_given: "Вам выдана палка: {stickName}"
+  no_such_stick: "Такой палки не существует."
+  command_executed: "Команда выполнена на {player}: {command}"
+  invalid_command: "Команда недействительна или не может быть выполнена."
+  error_executing_command: "Произошла ошибка при выполнении команды."
+  no_command_for_stick: "Для этой палки не найдена команда."
