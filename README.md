@@ -1,5 +1,7 @@
 # StickCommand
 
+[![Available on Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_vector.svg)](https://modrinth.com/plugin/stickcommand)
+
 A plugin enabling you to assign commands to sticks and use them on players.
 
 Simply strike a player with a stick and execute the specified command on them.
